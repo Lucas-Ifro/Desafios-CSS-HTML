@@ -1,0 +1,1 @@
+Esses são os desafios propostos no curso de CSS e HTML do Eduardo Guanabara, foram desenvolvidos sem a utilização de Frameworks. E pensandos para se adapatar em todos os tipos de telas, como o celular, tablet e desktop.
